@@ -1,0 +1,19 @@
+{
+  "name": "tiny-url",
+  "version": "0.0.1",
+  "description": "A wonderfully simple url shortener",
+  "author": "Arran White",
+  "homepage": "https://github.com/arrwhidev/tiny-url",
+  "repository": "git@github.com:arrwhidev/tiny-url.git",
+  "license": "ISC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "convert-bases": "^0.0.1",
+    "express": "^4.15.2",
+    "lokijs": "^1.4.3"
+  }
+}

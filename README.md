@@ -2,6 +2,8 @@
 
 A wonderfully simple url shortener.
 
+Converts base10 -> base62 for the shortening algorithm (https://github.com/arrwhidev/convert-bases).
+
 ## Usage
 
  * `yarn install`
